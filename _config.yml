@@ -244,3 +244,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pets
+  - scope:
+      path: ""
+      type: pets
+    values:
+      layout: single
+      author_profile: true
+      share: true
