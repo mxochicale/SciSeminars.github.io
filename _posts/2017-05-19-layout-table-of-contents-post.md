@@ -1,19 +1,25 @@
 ---
 title: "First Pilot Seminar Session"
 header:
-  image: assets/images/unsplash-image-9.jpg
+  image: assets/images/unsplash-image-3.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 tags:
-  - table of contents
+  - Economics
+  - Psychology
+  -
 ---
 
-{% include toc title="Unique Title" icon="file-text" %}
+{% include toc title="TALKS" icon="file-text" %}
 
 The main aim is to share our research with the community and to discuss different topics of general interest.
 Each presentation will last approximately 15 minutes and will be followed by a 5 min Q&A session.
 
-## Impact of Climate Change
-Saul Basurto, (PhD student in Economics), will talk about the impact of climate change in the decisions taken by farmers to plant
+## 1. Impact of Climate Change
+Saul Basurto, (Third Year PhD student in Economics),
+will talk about the impact of climate change in the decisions
+taken by farmers to plant.
+
+{% include video id="XsxDH4HcOWA" provider="youtube" %}
 
 ### Ordered Lists
 
@@ -31,8 +37,12 @@ Saul Basurto, (PhD student in Economics), will talk about the impact of climate 
 
 
 
-## How infants learn words
-Cecilia Zuñiga, (PhD student in Psychology),  will talk about how infants learn words and how their vocabulary can be enhanced.
+## 2. How infants learn words
+Cecilia Zuñiga, (Fist Year PhD student in Psychology),  
+will talk about how infants learn words and how their vocabulary can be enhanced.
+
+
+{% include video id="XsxDH4HcOWA" provider="youtube" %}
 
 ### Ordered Lists
 
