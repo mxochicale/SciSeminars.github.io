@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Science Seminars of the Mexican Society at University of Birmimgham"
+title                    : "Seminars of the Mexican Society at University of Birmimgham"
 title_separator          : "-"
 name                     : "DRAFT"
 description              : "An amazing website."
@@ -87,7 +87,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : https://www.facebook.com/UobMexicanSociety/
   foursquare       :
   github           :
   google_plus      :
@@ -233,22 +233,22 @@ compress_html:
 
 # Defaults
 defaults:
-  # # _posts
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: # true
-  #     share: true
-  #     related: true
-  # _pets
+  # _posts
   - scope:
       path: ""
-      type: pets
+      type: posts
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: # true
       share: true
+      related: true
+  # # _pets
+  # - scope:
+  #     path: ""
+  #     type: pets
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
